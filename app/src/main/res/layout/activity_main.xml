@@ -85,7 +85,7 @@
                 <TextView
                     android:layout_width="100dp"
                     android:layout_height="wrap_content"
-                    android:text="FOLLOWERS"
+                    android:text="@string/followers"
                     android:textSize="16dp"
                     android:textColor="#fff"
                     android:textStyle="bold"
@@ -109,7 +109,7 @@
                 <TextView
                     android:layout_width="100dp"
                     android:layout_height="wrap_content"
-                    android:text="FOLLOWING"
+                    android:text="@string/following"
                     android:textSize="16dp"
                     android:textColor="#fff"
                     android:textStyle="bold"
@@ -180,7 +180,7 @@
                 <Button
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="FOLLOW"
+                    android:text="@string/follow"
                     android:layout_marginTop="600dp"
                     android:layout_marginStart="170dp"
                     android:background="#00faba"/>
