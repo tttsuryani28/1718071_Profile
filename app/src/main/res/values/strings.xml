@@ -4,4 +4,5 @@
     <string name="followers">FOLLOWERS</string>
     <string name="following">FOLLOWING</string>
     <string name="follow">FOLLOW</string>
+    <string name="setting">SETTING</string>
 </resources>
